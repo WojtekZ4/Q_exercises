@@ -1,5 +1,5 @@
-vwap[`:/<path_to_project>/weighted_average/sample_data.txt; 2023.08.01; 2023.08.04]
-twap[`:/<path_to_project>/weighted_average/sample_data.txt; 2023.08.01; 2023.08.04]
+vwap[`:/<path_to_project>/weighted_average/sample_data.txt; 2023.07.01; 2023.09.01]
+twap[`:/<path_to_project>/weighted_average/sample_data.txt; 2023.07.01; 2023.09.01]
 vwap[`:/<path_to_project>/weighted_average/sample_data_test.txt; 2023.07.01; 2023.09.01]
 twap[`:/<path_to_project>/weighted_average/sample_data_test.txt; 2023.07.01; 2023.09.01]
 run_all_tests[]
