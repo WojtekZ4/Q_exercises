@@ -1,0 +1,2 @@
+\l /<path_to_project>/weighted_average/functions.q
+\l /<path_to_project>/weighted_average/tests.q
